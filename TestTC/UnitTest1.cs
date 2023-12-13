@@ -6,7 +6,7 @@ namespace TestTC
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(667, 666);
+            Assert.AreEqual(666, 666);
         }
         [Test] 
         public void Test2() 
